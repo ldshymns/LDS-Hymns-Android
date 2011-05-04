@@ -32,8 +32,9 @@ import android.widget.ListView;
 public class LDSHymns extends Activity {
     HymnAdapter adapt;
     
-    private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest/attach/ldshymns.download.xml";
-    private final static String CONFIG_VERSION="1.1";
+    //private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest/attach/ldshymns.download.xml";
+    private final static String FILE_CONFIG_URL = "https://github.com/sharkey3/LDS-Hymns-Android/raw/master/LDSHymns/downloads/ldshymns.download.xml";
+    private final static String DOWNLOAD_VERSION="1.3";
     private final static String DATA_PATH = "/sdcard/data/LDSHymns";
     private final static String USER_AGENT = "Droid Data Downloader";
     
@@ -42,7 +43,7 @@ public class LDSHymns extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         
-        if (!DownloaderActivity.ensureDownloaded(this, getString(R.string.download_text), FILE_CONFIG_URL, CONFIG_VERSION, DATA_PATH, USER_AGENT)) {
+        if (!DownloaderActivity.ensureDownloaded(this, getString(R.string.download_text), FILE_CONFIG_URL, DOWNLOAD_VERSION, DATA_PATH, USER_AGENT)) {
         	return;
         }
         
