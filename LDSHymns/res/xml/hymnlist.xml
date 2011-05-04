@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="hymns">
+<item file="001.pdf" number="1">The Morning Breaks</item>
+<item file="002.pdf" number="2">The Spirit of God</item>
+<item file="003.pdf" number="3">Now Let Us Rejoice</item>
+<item file="004.pdf" number="4">Truth Eternal</item>
+<item file="005.pdf" number="5">High on the Mountain Top</item>
+<item file="006.pdf" number="6">Redeemer of Israel</item>
+<item file="007.pdf" number="7">Israel, Israel, God Is Calling</item>
+<item file="008.pdf" number="8">Awake and Arise</item>
+<item file="009.pdf" number="9">Come, Rejoice</item>
+<item file="010.pdf" number="10">Come, Sing to the Lord</item>
+<item file="011.pdf" number="11">What Was Witnessed in the Heavens?</item>
+<item file="012.pdf" number="12">Twas witnessed in the morning sky</item>
+<item file="013.pdf" number="13">An Angel from on High</item>
+<item file="014.pdf" number="14">Sweet Is the Peace the Gospel Brings</item>
+<item file="015.pdf" number="15">I Saw a Mighty Angel Fly</item>
+<item file="016.pdf" number="16">What Glorious Scenes Mine Eyes Behold</item>
+<item file="017.pdf" number="17">Awake, Ye Saints of God, Awake!</item>
+<item file="018.pdf" number="18">The Voice of God Again Is Heard</item>
+<item file="019.pdf" number="19">We Thank Thee, O God, for a Prophet</item>
+<item file="020.pdf" number="20">God of Power, God of Right</item>
+<item file="021.pdf" number="21">Come, Listen to a Prophet&apos;s Voice</item>
+<item file="022.pdf" number="22">We Listen to a Prophet&apos;s Voice</item>
+<item file="023.pdf" number="23">We Ever Pray for Thee</item>
+<item file="024.pdf" number="24">God Bless Our Prophet Dear</item>
+<item file="025.pdf" number="25">Now We&apos;ll Sing with One Accord</item>
+<item file="026.pdf" number="26">Joseph Smith&apos;s First Prayer</item>
+<item file="026.pdf" number="26" firstline="1">Oh, how lovely was the morning</item>
+<item file="027.pdf" number="27">Praise to the Man</item>
+<item file="028.pdf" number="28">Saints, Behold How Great Jehovah</item>
+<item file="029.pdf" number="29">A Poor Wayfaring Man of Grief</item>
+<item file="030.pdf" number="30">Come, Come, Ye Saints</item>
+<item file="031.pdf" number="31">O God, Our Help in Ages Past</item>
+<item file="032.pdf" number="32">The Happy Day at Last Has Come</item>
+<item file="033.pdf" number="33">Our Mountain Home So Dear</item>
+<item file="034.pdf" number="34">O Ye Mountains High</item>
+<item file="035.pdf" number="35">For the Strength of the Hills</item>
+<item file="036.pdf" number="36">They, the Builders of the Nation</item>
+<item file="037.pdf" number="37">The Wintry Day, Descending to Its Close</item>
+<item file="038.pdf" number="38">Come, All Ye Saints of Zion</item>
+<item file="039.pdf" number="39">O Saints of Zion</item>
+<item file="040.pdf" number="40">Arise, O Glorious Zion</item>
+<item file="041.pdf" number="41">Let Zion in Her Beauty Rise</item>
+<item file="042.pdf" number="42">Hail to the Brightness of Zion&apos;s Glad Morning!</item>
+<item file="043.pdf" number="43">Zion Stands with Hills Surrounded</item>
+<item file="044.pdf" number="44">Beautiful Zion, Built Above</item>
+<item file="045.pdf" number="45">Lead Me into Life Eternal</item>
+<item file="046.pdf" number="46">Glorious Things of Thee Are Spoken</item>
+<item file="047.pdf" number="47">We Will Sing of Zion</item>
+<item file="048.pdf" number="48">Glorious Things Are Sung of Zion</item>
+<item file="049.pdf" number="49">Adam-ondi-Ahman</item>
+<item file="049.pdf" number="49" firstline="1">This earth was once a garden place</item>
+<item file="050.pdf" number="50">Come, Thou Glorious Day of Promise</item>
+<item file="051.pdf" number="51">Sons of Michael, He Approaches</item>
+<item file="052.pdf" number="52">The Day Dawn Is Breaking</item>
+<item file="053.pdf" number="53">Let Earth&apos;s Inhabitants Rejoice</item>
+<item file="054.pdf" number="54">Behold, the Mountain of the Lord</item>
+<item file="055.pdf" number="55">Lo, the Mighty God Appearing!</item>
+<item file="056.pdf" number="56">Softly Beams the Sacred Dawning</item>
+<item file="057.pdf" number="57">We&apos;re Not Ashamed to Own Our Lord</item>
+<item file="058.pdf" number="58">Come, Ye Children of the Lord</item>
+<item file="059.pdf" number="59">Come, O Thou King of Kings</item>
+<item file="060.pdf" number="60">Battle Hymn of the Republic</item>
+<item file="060.pdf" number="60" firstline="1">Mine eyes have seen the glory of the coming of the Lord</item>
+<item file="061.pdf" number="61">Raise Your Voices to the Lord</item>
+<item file="062.pdf" number="62">All Creatures of Our God and King</item>
+<item file="063.pdf" number="63">Great King of Heaven</item>
+<item file="064.pdf" number="64">On This Day of Joy and Gladness</item>
+<item file="065.pdf" number="65">Come, All Ye Saints Who Dwell on Earth</item>
+<item file="066.pdf" number="66">Rejoice, the Lord Is King!</item>
+<item file="067.pdf" number="67">Glory to God on High</item>
+<item file="068.pdf" number="68">A Mighty Fortress Is Our God</item>
+<item file="069.pdf" number="69">All Glory, Laud, and Honor</item>
+<item file="070.pdf" number="70">Sing Praise to Him</item>
+<item file="071.pdf" number="71">With Songs of Praise</item>
+<item file="072.pdf" number="72">Praise to the Lord, the Almighty</item>
+<item file="073.pdf" number="73">Praise the Lord with Heart and Voice</item>
+<item file="074.pdf" number="74">Praise Ye the Lord</item>
+<item file="075.pdf" number="75">In Hymns of Praise</item>
+<item file="076.pdf" number="76">God of Our Fathers, We Come unto Thee</item>
+<item file="077.pdf" number="77">Great Is the Lord</item>
+<item file="078.pdf" number="78">God of Our Fathers, Whose Almighty Hand</item>
+<item file="079.pdf" number="79">With All the Power of Heart and Tongue</item>
+<item file="080.pdf" number="80">God of Our Fathers, Known of Old</item>
+<item file="081.pdf" number="81">Press Forward, Saints</item>
+<item file="082.pdf" number="82">For All the Saints</item>
+<item file="083.pdf" number="83">Guide Us, O Thou Great Jehovah</item>
+<item file="084.pdf" number="84">Faith of Our Fathers</item>
+<item file="085.pdf" number="85">How Firm a Foundation</item>
+<item file="086.pdf" number="86">How Great Thou Art</item>
+<item file="087.pdf" number="87">God Is Love</item>
+<item file="087.pdf" number="87" firstline="1">Earth, with her ten thousand flowers</item>
+<item file="088.pdf" number="88">Great God, Attend While Zion Sings</item>
+<item file="089.pdf" number="89">The Lord Is My Light</item>
+<item file="090.pdf" number="90">From All That Dwell below the Skies</item>
+<item file="091.pdf" number="91">Father, Thy Children to Thee Now Raise</item>
+<item file="092.pdf" number="92">For the Beauty of the Earth</item>
+<item file="093.pdf" number="93">Prayer of Thanksgiving</item>
+<item file="093.pdf" number="93" firstline="1">We gather together to ask the Lord&apos;s blessing</item>
+<item file="094.pdf" number="94">Come, Ye Thankful People</item>
+<item file="095.pdf" number="95">Now Thank We All Our God</item>
+<item file="096.pdf" number="96">Dearest Children, God Is Near You</item>
+<item file="097.pdf" number="97">Lead, Kindly Light</item>
+<item file="098.pdf" number="98">I Need Thee Every Hour</item>
+<item file="099.pdf" number="99">Nearer, Dear Savior, to Thee</item>
+<item file="100.pdf" number="100">Nearer, My God, to Thee</item>
+<item file="101.pdf" number="101">Guide Me to Thee</item>
+<item file="101.pdf" number="101" firstline="1">Jesus, my Savior true</item>
+<item file="102.pdf" number="102">Jesus, Lover of My Soul</item>
+<item file="103.pdf" number="103">Precious Savior, Dear Redeemer</item>
+<item file="104.pdf" number="104">Jesus, Savior, Pilot Me</item>
+<item file="105.pdf" number="105">Master, the Tempest Is Raging</item>
+<item file="106.pdf" number="106">God Speed the Right</item>
+<item file="106.pdf" number="106" firstline="1">Now to heaven our prayer ascending</item>
+<item file="107.pdf" number="107">Lord, Accept Our True Devotion</item>
+<item file="108.pdf" number="108">The Lord Is My Shepherd</item>
+<item file="109.pdf" number="109">The Lord My Pasture Will Prepare</item>
+<item file="110.pdf" number="110">Cast Thy Burden upon the Lord</item>
+<item file="111.pdf" number="111">Rock of Ages</item>
+<item file="112.pdf" number="112">Savior, Redeemer of My Soul</item>
+<item file="113.pdf" number="113">Our Savior&apos;s Love</item>
+<item file="114.pdf" number="114">Come unto Him</item>
+<item file="114.pdf" number="114" firstline="1">I wander through the still of night</item>
+<item file="115.pdf" number="115">Come, Ye Disconsolate</item>
+<item file="116.pdf" number="116">Come, Follow Me</item>
+<item file="117.pdf" number="117">Come unto Jesus</item>
+<item file="118.pdf" number="118">Ye Simple Souls Who Stray</item>
+<item file="119.pdf" number="119">Come, We That Love the Lord</item>
+<item file="120.pdf" number="120">Lean on My Ample Arm</item>
+<item file="121.pdf" number="121">I&apos;m a Pilgrim, I&apos;m a Stranger</item>
+<item file="122.pdf" number="122">Though Deepening Trials</item>
+<item file="123.pdf" number="123">Oh, May My Soul Commune with Thee</item>
+<item file="124.pdf" number="124">Be Still, My Soul</item>
+<item file="125.pdf" number="125">How Gentle God&apos;s Commands</item>
+<item file="126.pdf" number="126">How Long, O Lord Most Holy and True</item>
+<item file="127.pdf" number="127">Does the Journey Seem Long?</item>
+<item file="128.pdf" number="128">When Faith Endures</item>
+<item file="128.pdf" number="128" firstline="1">I will not doubt, I will not fear</item>
+<item file="129.pdf" number="129">Where Can I Turn for Peace?</item>
+<item file="130.pdf" number="130">Be Thou Humble</item>
+<item file="131.pdf" number="131">More Holiness Give Me</item>
+<item file="132.pdf" number="132">God Is in His Holy Temple</item>
+<item file="133.pdf" number="133">Father in Heaven</item>
+<item file="134.pdf" number="134">I Believe in Christ</item>
+<item file="135.pdf" number="135">My Redeemer Lives</item>
+<item file="135.pdf" number="135" firstline="1">I know that my Redeemer lives</item>
+<item file="136.pdf" number="136">I Know That My Redeemer Lives</item>
+<item file="137.pdf" number="137">Testimony</item>
+<item file="138.pdf" number="138">Bless Our Fast, We Pray</item>
+<item file="138.pdf" number="138" firstline="1">On bended knees, with broken hearts</item>
+<item file="139.pdf" number="139">In Fasting We Approach Thee</item>
+<item file="140.pdf" number="140">Did You Think to Pray?</item>
+<item file="140.pdf" number="140" firstline="1">Ere you left your room this morning</item>
+<item file="141.pdf" number="141">Jesus, the Very Thought of Thee</item>
+<item file="142.pdf" number="142">Sweet Hour of Prayer</item>
+<item file="143.pdf" number="143">Let the Holy Spirit Guide</item>
+<item file="144.pdf" number="144">Secret Prayer</item>
+<item file="144.pdf" number="144" firstline="1">There is an hour of peace and rest</item>
+<item file="145.pdf" number="145">Prayer Is the Soul&apos;s Sincere Desire</item>
+<item file="146.pdf" number="146">Gently Raise the Sacred Strain</item>
+<item file="147.pdf" number="147">Sweet Is the Work</item>
+<item file="148.pdf" number="148">Sabbath Day</item>
+<item file="148.pdf" number="148" firstline="1">In sweet remembrance of thy Son</item>
+<item file="149.pdf" number="149">As the Dew from Heaven Distilling</item>
+<item file="150.pdf" number="150">O Thou Kind and Gracious Father</item>
+<item file="151.pdf" number="151">We Meet, Dear Lord</item>
+<item file="152.pdf" number="152">God Be with You Till We Meet Again</item>
+<item file="153.pdf" number="153">Lord, We Ask Thee Ere We Part</item>
+<item file="154.pdf" number="154">Father, This Hour Has Been One of Joy</item>
+<item file="155.pdf" number="155">We Have Partaken of Thy Love</item>
+<item file="156.pdf" number="156">Sing We Now at Parting</item>
+<item file="157.pdf" number="157">Thy Spirit, Lord, Has Stirred Our Souls</item>
+<item file="158.pdf" number="158">Before Thee, Lord, I Bow My Head</item>
+<item file="159.pdf" number="159">Now the Day Is Over</item>
+<item file="160.pdf" number="160">Softly Now the Light of Day</item>
+<item file="161.pdf" number="161">The Lord Be with Us</item>
+<item file="162.pdf" number="162">Lord, We Come before Thee Now</item>
+<item file="163.pdf" number="163">Lord, Dismiss Us with Thy Blessing</item>
+<item file="164.pdf" number="164">Great God, to Thee My Evening Song</item>
+<item file="165.pdf" number="165">Abide with Me; &apos;Tis Eventide</item>
+<item file="166.pdf" number="166">Abide with Me!</item>
+<item file="167.pdf" number="167">Come, Let Us Sing an Evening Hymn</item>
+<item file="168.pdf" number="168">As the Shadows Fall</item>
+<item file="169.pdf" number="169">As Now We Take the Sacrament</item>
+<item file="170.pdf" number="170">God, Our Father, Hear Us Pray</item>
+<item file="171.pdf" number="171">With Humble Heart</item>
+<item file="172.pdf" number="172">In Humility, Our Savior</item>
+<item file="173.pdf" number="173">While of These Emblems We Partake</item>
+<item file="174.pdf" number="174">While of These Emblems We Partake</item>
+<item file="175.pdf" number="175">O God, the Eternal Father</item>
+<item file="176.pdf" number="176">Tis Sweet to Sing the Matchless Love</item>
+<item file="177.pdf" number="177">Tis Sweet to Sing the Matchless Love</item>
+<item file="178.pdf" number="178">O Lord of Hosts</item>
+<item file="179.pdf" number="179">Again, Our Dear Redeeming Lord</item>
+<item file="180.pdf" number="180">Father in Heaven, We Do Believe</item>
+<item file="181.pdf" number="181">Jesus of Nazareth, Savior and King</item>
+<item file="182.pdf" number="182">We&apos;ll Sing All Hail to Jesus&apos; Name</item>
+<item file="183.pdf" number="183">In Remembrance of Thy Suffering</item>
+<item file="184.pdf" number="184">Upon the Cross of Calvary</item>
+<item file="185.pdf" number="185">Reverently and Meekly Now</item>
+<item file="186.pdf" number="186">Again We Meet around the Board</item>
+<item file="187.pdf" number="187">God Loved Us, So He Sent His Son</item>
+<item file="188.pdf" number="188">Thy Will, O Lord, Be Done</item>
+<item file="188.pdf" number="188" firstline="1">When in the wondrous realms above</item>
+<item file="189.pdf" number="189">O Thou, Before the World Began</item>
+<item file="190.pdf" number="190">In Memory of the Crucified</item>
+<item file="191.pdf" number="191">Behold the Great Redeemer Die</item>
+<item file="192.pdf" number="192">He Died! The Great Redeemer Died</item>
+<item file="193.pdf" number="193">I Stand All Amazed</item>
+<item file="194.pdf" number="194">There Is a Green Hill Far Away</item>
+<item file="195.pdf" number="195">How Great the Wisdom and the Love</item>
+<item file="196.pdf" number="196">Jesus, Once of Humble Birth</item>
+<item file="197.pdf" number="197">O Savior, Thou Who Wearest a Crown</item>
+<item file="198.pdf" number="198">That Easter Morn</item>
+<item file="199.pdf" number="199">He Is Risen!</item>
+<item file="200.pdf" number="200">Christ the Lord Is Risen Today</item>
+<item file="201.pdf" number="201">Joy to the World</item>
+<item file="202.pdf" number="202">Oh, Come, All Ye Faithful</item>
+<item file="203.pdf" number="203">Angels We Have Heard on High</item>
+<item file="204.pdf" number="204">Silent Night</item>
+<item file="205.pdf" number="205">Once in Royal David&apos;s City</item>
+<item file="206.pdf" number="206">Away in a Manger</item>
+<item file="207.pdf" number="207">It Came upon the Midnight Clear</item>
+<item file="208.pdf" number="208">O Little Town of Bethlehem</item>
+<item file="209.pdf" number="209">Hark! The Herald Angels Sing</item>
+<item file="210.pdf" number="210">With Wondering Awe</item>
+<item file="211.pdf" number="211">While Shepherds Watched Their Flocks</item>
+<item file="212.pdf" number="212">Far, Far Away on Judea&apos;s Plains</item>
+<item file="213.pdf" number="213">The First Noel</item>
+<item file="214.pdf" number="214">I Heard the Bells on Christmas Day</item>
+<item file="215.pdf" number="215">Ring Out, Wild Bells</item>
+<item file="216.pdf" number="216">We Are Sowing</item>
+<item file="217.pdf" number="217">Come, Let Us Anew</item>
+<item file="218.pdf" number="218">We Give Thee But Thine Own</item>
+<item file="219.pdf" number="219">Because I Have Been Given Much</item>
+<item file="220.pdf" number="220">Lord, I Would Follow Thee</item>
+<item file="220.pdf" number="220" firstline="1">Savior, may I learn to love thee</item>
+<item file="221.pdf" number="221">Dear to the Heart of the Shepherd</item>
+<item file="222.pdf" number="222">Hear Thou Our Hymn, O Lord</item>
+<item file="223.pdf" number="223">Have I Done Any Good</item>
+<item file="224.pdf" number="224">I Have Work Enough to Do</item>
+<item file="225.pdf" number="225">We Are Marching On to Glory</item>
+<item file="226.pdf" number="226">Improve the Shining Moments</item>
+<item file="227.pdf" number="227">There Is Sunshine in My Soul Today</item>
+<item file="228.pdf" number="228">You Can Make the Pathway Bright</item>
+<item file="229.pdf" number="229">Today, While the Sun Shines</item>
+<item file="230.pdf" number="230">Scatter Sunshine</item>
+<item file="230.pdf" number="230" firstline="1">In a world where sorrow</item>
+<item file="231.pdf" number="231">Father, Cheer Our Souls Tonight</item>
+<item file="232.pdf" number="232">Let Us Oft Speak Kind Words</item>
+<item file="233.pdf" number="233">Nay, Speak No Ill</item>
+<item file="234.pdf" number="234">Jesus, Mighty King in Zion</item>
+<item file="235.pdf" number="235">Should You Feel Inclined to Censure</item>
+<item file="236.pdf" number="236">Lord, Accept into Thy Kingdom</item>
+<item file="237.pdf" number="237">Do What Is Right</item>
+<item file="238.pdf" number="238">Behold Thy Sons and Daughters, Lord</item>
+<item file="239.pdf" number="239">Choose the Right</item>
+<item file="240.pdf" number="240">Know This, That Every Soul Is Free</item>
+<item file="241.pdf" number="241">Count Your Blessings</item>
+<item file="241.pdf" number="241" firstline="1">When upon life&apos;s billows you are tempest-tossed</item>
+<item file="242.pdf" number="242">Praise God, from Whom All Blessings Flow</item>
+<item file="243.pdf" number="243">Let Us All Press On</item>
+<item file="244.pdf" number="244">Come Along, Come Along</item>
+<item file="245.pdf" number="245">This House We Dedicate to Thee</item>
+<item file="246.pdf" number="246">Onward, Christian Soldiers</item>
+<item file="247.pdf" number="247">We Love Thy House, O God</item>
+<item file="248.pdf" number="248">Up, Awake, Ye Defenders of Zion</item>
+<item file="249.pdf" number="249">Called to Serve</item>
+<item file="250.pdf" number="250">We Are All Enlisted</item>
+<item file="251.pdf" number="251">Behold! A Royal Army</item>
+<item file="252.pdf" number="252">Put Your Shoulder to the Wheel</item>
+<item file="252.pdf" number="252" firstline="1">The world has need of willing men</item>
+<item file="253.pdf" number="253">Like Ten Thousand Legions Marching</item>
+<item file="254.pdf" number="254">True to the Faith</item>
+<item file="254.pdf" number="254" firstline="1">Shall the youth of Zion falter</item>
+<item file="255.pdf" number="255">Carry On</item>
+<item file="255.pdf" number="255" firstline="1">Firm as the mountains around us</item>
+<item file="256.pdf" number="256">As Zion&apos;s Youth in Latter Days</item>
+<item file="257.pdf" number="257">Rejoice! A Glorious Sound Is Heard</item>
+<item file="258.pdf" number="258">O Thou Rock of Our Salvation</item>
+<item file="259.pdf" number="259">Hope of Israel</item>
+<item file="260.pdf" number="260">Who&apos;s on the Lords Side?</item>
+<item file="261.pdf" number="261">Thy Servants Are Prepared</item>
+<item file="262.pdf" number="262">Go, Ye Messengers of Glory</item>
+<item file="263.pdf" number="263">Go Forth with Faith</item>
+<item file="264.pdf" number="264">Hark, All Ye Nations!</item>
+<item file="265.pdf" number="265">Arise, O God, and Shine</item>
+<item file="266.pdf" number="266">The Time Is Far Spent</item>
+<item file="267.pdf" number="267">How Wondrous and Great</item>
+<item file="268.pdf" number="268">Come, All Whose Souls Are Lighted</item>
+<item file="269.pdf" number="269">Jehovah, Lord of Heaven and Earth</item>
+<item file="270.pdf" number="270">I&apos;ll Go Where You Want Me to Go</item>
+<item file="271.pdf" number="271">Oh, Holy Words of Truth and Love</item>
+<item file="272.pdf" number="272">Oh Say, What Is Truth</item>
+<item file="273.pdf" number="273">Truth Reflects upon Our Senses</item>
+<item file="274.pdf" number="274">The Iron Rod</item>
+<item file="275.pdf" number="275">Men Are That They Might Have Joy</item>
+<item file="275.pdf" number="275" firstline="1">A voice hath spoken from the dust</item>
+<item file="276.pdf" number="276">Come Away to the Sunday School</item>
+<item file="276.pdf" number="276" firstline="1">When the rosy light of morning</item>
+<item file="277.pdf" number="277">As I Search the Holy Scriptures</item>
+<item file="278.pdf" number="278">Thanks for the Sabbath School</item>
+<item file="279.pdf" number="279">Thy Holy Word</item>
+<item file="279.pdf" number="279" firstline="1">We love to hear thy holy word</item>
+<item file="280.pdf" number="280">Welcome, Welcome, Sabbath Morning</item>
+<item file="281.pdf" number="281">Help Me Teach with Inspiration</item>
+<item file="282.pdf" number="282">We Meet Again in Sabbath School</item>
+<item file="283.pdf" number="283">The Glorious Gospel Light Has Shone</item>
+<item file="284.pdf" number="284">If You Could Hie to Kolob</item>
+<item file="285.pdf" number="285">God Moves in a Mysterious Way</item>
+<item file="286.pdf" number="286">Oh, What Songs of the Heart</item>
+<item file="287.pdf" number="287">Rise, Ye Saints, and Temples Enter</item>
+<item file="288.pdf" number="288">How Beautiful Thy Temples, Lord</item>
+<item file="289.pdf" number="289">Holy Temples on Mount Zion</item>
+<item file="290.pdf" number="290">Rejoice, Ye Saints of Latter Days</item>
+<item file="291.pdf" number="291">Turn Your Hearts</item>
+<item file="292.pdf" number="292">O My Father</item>
+<item file="293.pdf" number="293">Each Life That Touches Ours for Good</item>
+<item file="294.pdf" number="294">Love at Home</item>
+<item file="294.pdf" number="294" firstline="1">There is beauty all around</item>
+<item file="295.pdf" number="295">O Love That Glorifies the Son</item>
+<item file="296.pdf" number="296">Our Father, by Whose Name</item>
+<item file="297.pdf" number="297">From Homes of Saints Glad Songs Arise</item>
+<item file="298.pdf" number="298">Home Can Be a Heaven on Earth</item>
+<item file="299.pdf" number="299">Children of Our Heavenly Father</item>
+<item file="300.pdf" number="300">Families Can Be Together Forever</item>
+<item file="300.pdf" number="300" firstline="1">I have a family here on earth</item>
+<item file="301.pdf" number="301">I Am a Child of God</item>
+<item file="302.pdf" number="302">I Know My Father Lives</item>
+<item file="303.pdf" number="303">Keep the Commandments</item>
+<item file="304.pdf" number="304">Teach Me to Walk in the Light</item>
+<item file="305.pdf" number="305">The Light Divine</item>
+<item file="306.pdf" number="306">God&apos;s Daily Care</item>
+<item file="306.pdf" number="306" firstline="1">As I watch the rising sun</item>
+<item file="307.pdf" number="307">In Our Lovely Deseret</item>
+<item file="308.pdf" number="308">Love One Another</item>
+<item file="308.pdf" number="308" firstline="1">As I have loved you</item>
+<item file="309.pdf" number="309">As Sisters in Zion (Women)</item>
+<item file="310.pdf" number="310">A Key Was Turned in Latter Days (Women)</item>
+<item file="311.pdf" number="311">We Meet Again as Sisters (Women)</item>
+<item file="312.pdf" number="312">We Ever Pray for Thee (Women)</item>
+<item file="313.pdf" number="313">God Is Love (Women)</item>
+<item file="313.pdf" number="313" firstline="1">Earth, with her ten thousand flowers (women)</item>
+<item file="314.pdf" number="314">How Gentle God&apos;s Commands (Women)</item>
+<item file="315.pdf" number="315">Jesus, the Very Thought of Thee (Women)</item>
+<item file="316.pdf" number="316">The Lord Is My Shepherd (Women)</item>
+<item file="317.pdf" number="317">Sweet Is the Work (Women)</item>
+<item file="318.pdf" number="318" firstline="1">There is beauty all around (women)</item>
+<item file="319.pdf" number="319">Ye Elders of Israel (Men)</item>
+<item file="320.pdf" number="320">The Priesthood of Our Lord (Men)</item>
+<item file="320.pdf" number="320" firstline="1">Brethren, power by earthly standards</item>
+<item file="321.pdf" number="321">Ye Who Are Called to Labor (Men)</item>
+<item file="322.pdf" number="322">Come, All Ye Sons of God (Men)</item>
+<item file="323.pdf" number="323">Rise Up, O Men of God (Men&apos;s Choir)</item>
+<item file="324.pdf" number="324">Rise Up, O Men of God (Men)</item>
+<item file="325.pdf" number="325">See the Mighty Priesthood Gathered (Men&apos;s Choir)</item>
+<item file="326.pdf" number="326">Come, Come, Ye Saints (Men&apos;s Choir)</item>
+<item file="327.pdf" number="327">Go, Ye Messengers of Heaven (Men&apos;s Choir)</item>
+<item file="328.pdf" number="328">An Angel from on High</item>
+<item file="329.pdf" number="329">Thy Servants Are Prepared (Men&apos;s Choir)</item>
+<item file="330.pdf" number="330">See, the Mighty Angel Flying (Men&apos;s Choir)</item>
+<item file="331.pdf" number="331">Oh Say, What Is Truth (Men&apos;s Choir)</item>
+<item file="332.pdf" number="332">Come, O Thou King of Kings (Men&apos;s Choir)</item>
+<item file="333.pdf" number="333">High on the Mountain Top (Men&apos;s Choir)</item>
+<item file="334.pdf" number="334">I Need Thee Every Hour (Men&apos;s Choir)</item>
+<item file="335.pdf" number="335">Brightly Beams Our Father&apos;s Mercy (Men&apos;s Choir)</item>
+<item file="336.pdf" number="336">School Thy Feelings (Men&apos;s Choir)</item>
+<item file="337.pdf" number="337">O Home Beloved (Men&apos;s Choir)</item>
+<item file="338.pdf" number="338">America the Beautiful</item>
+<item file="338.pdf" number="338" firstline="1">Oh, beautiful for spacious skies</item>
+<item file="339.pdf" number="339">My Country, &apos;Tis of Thee</item>
+<item file="340.pdf" number="340">The Star-Spangled Banner</item>
+<item file="340.pdf" number="340" firstline="1">Oh say, can you see, by the dawn&apos;s early light</item>
+<item file="341.pdf" number="341">God Save the King</item>
+</string-array>
+</resources>
