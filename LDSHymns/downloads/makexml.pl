@@ -4,7 +4,7 @@ open(OUT,'>','ldshymns.download.xml') or die $!;
 
 print OUT <<END;
 <?xml version="1.0" encoding="utf-8"?>
-<config version="1.2">
+<config version="1.3">
 END
 
 for my $f (sort glob "*.pdf") {
