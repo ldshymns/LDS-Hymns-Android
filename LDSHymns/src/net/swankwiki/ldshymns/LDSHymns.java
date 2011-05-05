@@ -32,8 +32,9 @@ import android.widget.ListView;
 public class LDSHymns extends Activity {
     HymnAdapter adapt;
     
-    //private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest/attach/ldshymns.download.xml";
     private final static String FILE_CONFIG_URL = "https://github.com/sharkey3/LDS-Hymns-Android/raw/master/LDSHymns/downloads/ldshymns.download.xml";
+    //private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest2/attach/ldshymns.download.xml";
+    //private final static String FILE_CONFIG_URL = "http://172.16.14.111:8005/downloadtest2/attach/ldshymns.download.xml";
     private final static String DOWNLOAD_VERSION="1.3";
     private final static String DATA_PATH = "/sdcard/data/LDSHymns";
     private final static String USER_AGENT = "Droid Data Downloader";
@@ -148,9 +149,11 @@ public class LDSHymns extends Activity {
     class HymnAdapter extends ArrayAdapter<HymnHash> {
     	Filter thefilter;
     	public HymnList allhymns;
+    	ListView myList;
     	
 		public HymnAdapter(Context context, int resource, int textViewResourceId) throws Exception {
 			super(context, textViewResourceId);
+			myList = (ListView)findViewById(R.id.list);
 			allhymns = new HymnList(resource);
 			setNotifyOnChange(false);
 			clear();
@@ -166,6 +169,12 @@ public class LDSHymns extends Activity {
 				thefilter = new HymnFilter();
 			}
 			return thefilter;
+		}
+		
+		@Override
+		public void notifyDataSetChanged() {
+			super.notifyDataSetChanged();
+	        myList.setFastScrollEnabled( getCount()>=50 );
 		}
     }
     

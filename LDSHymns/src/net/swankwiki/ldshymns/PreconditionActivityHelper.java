@@ -64,11 +64,9 @@ public class PreconditionActivityHelper {
      * Start the original activity, and finish the precondition activity.
      * @param preconditionActivity
      */
-    public static void startOriginalActivityAndFinish(
-            Activity preconditionActivity) {
-        preconditionActivity.startActivity(
-                (Intent) preconditionActivity.getIntent()
-                    .getParcelableExtra(EXTRA_WRAPPED_INTENT));
+    public static void startOriginalActivityAndFinish(Activity preconditionActivity) {
+    	Intent orig = (Intent) preconditionActivity.getIntent().getParcelableExtra(EXTRA_WRAPPED_INTENT); 
+        preconditionActivity.startActivity(orig);
         preconditionActivity.finish();
     }
 
