@@ -50,7 +50,6 @@ public class LDSHymns extends Activity {
         setContentView(R.layout.main);
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 
-        //String [] hymns = getResources().getStringArray(R.array.hymns);
         ListView lv = (ListView)findViewById(R.id.list);
         try {
         	adapt = new HymnAdapter(this,
@@ -66,7 +65,6 @@ public class LDSHymns extends Activity {
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 			public void onItemClick(AdapterView<?> parentView, View childView, int position, long id) {
         		Intent intent = new Intent(Intent.ACTION_VIEW);
-        		//Uri uri = Uri.withAppendedPath( Uri.parse("content://com.example.hellodroid.pdfprovider/"),
         		Uri uri = Uri.withAppendedPath( Uri.parse("file://"+DATA_PATH),
         				((HymnHash)(parentView.getItemAtPosition(position))).get("file") );
         		intent.setDataAndType(uri,"application/pdf");
