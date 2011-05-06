@@ -32,7 +32,7 @@ import android.widget.ListView;
 public class LDSHymns extends Activity {
     HymnAdapter adapt;
     
-    private final static String FILE_CONFIG_URL = "https://github.com/sharkey3/LDS-Hymns-Android/raw/master/LDSHymns/downloads/ldshymns.download.xml";
+    private final static String FILE_CONFIG_URL = "http://ldshymns.github.com/downloads/ldshymns.download.xml";
     //private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest2/attach/ldshymns.download.xml";
     //private final static String FILE_CONFIG_URL = "http://172.16.14.111:8005/downloadtest2/attach/ldshymns.download.xml";
     private final static String DOWNLOAD_VERSION="1.3";

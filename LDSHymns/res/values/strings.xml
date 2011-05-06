@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">LDS Hymns</string>
-    <string name="download_text">Downloading LDS Hymn data</string>
+    <string name="download_text">Downloading LDS Hymns data</string>
 
     <string name="success">All data has been downloaded successfully.</string>
     <string name="download_again">Download again</string>
