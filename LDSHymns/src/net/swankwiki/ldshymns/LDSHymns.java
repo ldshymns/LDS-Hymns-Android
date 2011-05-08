@@ -36,7 +36,7 @@ public class LDSHymns extends Activity {
     //private final static String FILE_CONFIG_URL = "http://swankwiki.net/downloadtest2/attach/ldshymns.download.xml";
     //private final static String FILE_CONFIG_URL = "http://172.16.14.111:8005/downloadtest2/attach/ldshymns.download.xml";
     private final static String DOWNLOAD_VERSION="1.3";
-    private final static String DATA_PATH = "/sdcard/data/LDSHymns";
+    private final static String DATA_PATH = "/sdcard/LDSHymns";
     private final static String USER_AGENT = "Droid Data Downloader";
     
     /** Called when the activity is first created. */
