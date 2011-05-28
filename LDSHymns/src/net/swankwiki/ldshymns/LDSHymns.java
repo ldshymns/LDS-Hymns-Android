@@ -73,7 +73,7 @@ public class LDSHymns extends Activity {
         			startActivity(intent);
         		} catch (ActivityNotFoundException e) {
         			// no pdf viewer installed?
-        			ErrorDialog("A PDF viewer is required.\nI recommend Adobe's free Acrobat viewer.");
+        			ErrorDialog(getString(R.string.pdf_viewer_not_found)+"\n"+getString(R.string.recommend_pdf_viewer));
         		}				
 			};
 		});

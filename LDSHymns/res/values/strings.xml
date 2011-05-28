@@ -19,5 +19,7 @@
     <string name="download_activity_download_stopped">Download stopped</string>
     <string name="download_activity_retry">Retry</string>
     <string name="download_activity_quit">Quit</string>
-    
+        
+    <string name="pdf_viewer_not_found">A PDF viewer is required.</string>
+    <string name="recommend_pdf_viewer">I recommend Adobe\&apos;s free Acrobat viewer.</string>
 </resources>
